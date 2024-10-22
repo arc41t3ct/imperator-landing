@@ -8,7 +8,7 @@ import (
 
 func (a *application) routes() *chi.Mux {
 	// middleware must come before any routes using aliases
-	a.use(a.Middlware.Remember)
+	// a.use(a.Middlware.Remember)
 	// routes go here using the aloases
 	a.get("/", a.Handlers.Home)
 	// static routes
