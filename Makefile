@@ -19,11 +19,11 @@ clean:
 
 infra_up:
 	@echo "Starting Infrastructure"
-	docker compose -f ../infrastructure/docker-compose.yml up -d 
+	docker compose -f ../imperator-dev-infra/docker-compose.yml up -d 
 
 infra_down:
 	@echo "Stopping Infrastructure"
-	docker compose -f ../infrastructure/docker-compose.yml down
+	docker compose -f ../imperator-dev-infra/docker-compose.yml down
 
 test:
 	@echo "Testing..."
