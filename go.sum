@@ -40,8 +40,8 @@ github.com/alicebob/miniredis/v2 v2.33.0 h1:uvTF0EDeu9RLnUEG27Db5I68ESoIxTiXbNUi
 github.com/alicebob/miniredis/v2 v2.33.0/go.mod h1:MhP4a3EU7aENRi9aO+tHfTBZicLqQevyi/DJpoj6mi0=
 github.com/andybalholm/cascadia v1.3.2 h1:3Xi6Dw5lHF15JtdcmAHD3i1+T8plmv7BQ/nsViSLyss=
 github.com/andybalholm/cascadia v1.3.2/go.mod h1:7gtRlve5FxPPgIgX36uWBX58OdBsSS6lUvCFb+h7KvU=
-github.com/arc41t3ct/imperator v0.0.0-20241022194140-01df55657ccb h1:SJOMmjN6wbHIotDkMsmMJ0bHCeEixxlxyeZ9fTg6K40=
-github.com/arc41t3ct/imperator v0.0.0-20241022194140-01df55657ccb/go.mod h1:MwGtXAN/G6Qx3L/0lJLjUeYiWzHj3vsOxzX0ywT0tZc=
+github.com/arc41t3ct/imperator v0.0.1 h1:OjHG85SybIEMT6JDrWO9EyUcvDc3coV71OnQhyC2W80=
+github.com/arc41t3ct/imperator v0.0.1/go.mod h1:MwGtXAN/G6Qx3L/0lJLjUeYiWzHj3vsOxzX0ywT0tZc=
 github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2 h1:DklsrG3dyBCFEj5IhUbnKptjxatkF07cF2ak3yi77so=
 github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2/go.mod h1:WaHUgvxTVq04UNunO+XhnAqY/wQc+bxr74GqbsZ/Jqw=
 github.com/buger/jsonparser v1.0.0/go.mod h1:tgcrVJ81GPSF0mz+0nu1Xaz0fazGPrmmJfJtxjbHhUQ=

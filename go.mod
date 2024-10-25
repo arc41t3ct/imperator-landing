@@ -4,7 +4,7 @@ go 1.23.0
 
 require (
 	github.com/CloudyKit/jet/v6 v6.2.0
-	github.com/arc41t3ct/imperator v0.0.0-20241022194140-01df55657ccb
+	github.com/arc41t3ct/imperator v0.0.1
 	github.com/go-chi/chi/v5 v5.1.0
 	github.com/upper/db/v4 v4.9.0
 )
